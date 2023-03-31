@@ -1,4 +1,3 @@
-reate-react-app/docs/deployment) for more information.
-![counter](https://user-images.githubusercontent.com/105325175/229091110-45a75e19-d60b-4efb-abc0-a04aecc29a75.PNG)
+![counterapp](https://user-images.githubusercontent.com/105325175/229099827-6f016607-ecfd-4ef4-a589-bb84d7443d83.PNG)
 
-video link to counter--https://user-images.githubusercontent.com/105325175/229090668-79319274-4623-4354-bac4-990651ecb336.mp4
+video link to counter--https://user-images.githubusercontent.com/105325175/229099784-8cf03f9a-386c-4030-a1d0-6602e37cc2aa.mp4
